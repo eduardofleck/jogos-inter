@@ -5,6 +5,9 @@ insert @ESTADIOS_HOME (ESTADIO) values ('CHÁCARA DOS EUCALIPTOS')
 insert @ESTADIOS_HOME (ESTADIO) values ('INTERNACIONAL')
 insert @ESTADIOS_HOME (ESTADIO) values (NULL)
 
+/*OS GRENAIS SAO CARREGADOS DE OUTRA PLANILHA*/
+delete from PERIN where Adversario = 'GRÊMIO'
+
 INSERT INTO game (idChampionship, idStadium, idTeamHome, scoreTeamHome, scoreTeamAway, idTeamAway, gameDate, source)
 SELECT 
 	CASE 
@@ -28,11 +31,11 @@ SELECT
 	END idChampionship,
 	CASE
 		WHEN PERIN.Estadio = 'NULL' THEN NULL
-		ELSE (SELECT MAX(ID) FROM stadium WHERE UPPER(NAME) LIKE '%'+UPPER(TRIM(PERIN.Estadio))+'%')
+		ELSE (SELECT MAX(ID) FROM stadium WHERE UPPER(NAME) LIKE UPPER(TRIM(PERIN.Estadio)) or UPPER(nickname) LIKE UPPER(TRIM(PERIN.Estadio)))
 	END idStadium, 
 	CASE
 		WHEN H.ESTADIO IS NOT NULL THEN 1
-		ELSE (SELECT MAX(ID) FROM team WHERE UPPER(NAME) LIKE '%'+UPPER(Adversario)+'%')
+		ELSE (SELECT MAX(ID) FROM team WHERE UPPER(NAME) LIKE UPPER(Adversario))
 	END idTeamHome,
 	CASE
 		WHEN H.ESTADIO IS NOT NULL THEN Gols_Pro
@@ -44,11 +47,10 @@ SELECT
 	END scoreTeamAway,
 	CASE
 		WHEN H.ESTADIO IS NULL THEN 1 
-		ELSE (SELECT MAX(ID) FROM team WHERE UPPER(NAME) LIKE '%'+UPPER(Adversario)+'%')
+		ELSE (SELECT MAX(ID) FROM team WHERE UPPER(NAME) LIKE UPPER(Adversario))
 	END idTeamAway,
 	Data gameDate,
-	'Perin'
+	'Perin' source
 	--, PERIN.Estadio, Adversario, CAMPEONATO
-  FROM PERIN LEFT JOIN @ESTADIOS_HOME H ON PERIN.Estadio = H.ESTADIO
-
-  
+  FROM PERIN 
+	LEFT JOIN @ESTADIOS_HOME H ON PERIN.Estadio = H.ESTADIO
