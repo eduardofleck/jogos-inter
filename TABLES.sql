@@ -8,6 +8,7 @@ CREATE TABLE stadium(
     id INT IDENTITY,
     name varchar(300) not null,
 	nickname varchar(300) null,
+	description varchar(5000) null,
 	countrycode varchar(2) null,
 	city varchar(300) null,
     createddate date not null default GETDATE(),
@@ -1080,7 +1081,7 @@ insert into stadium (countrycode, name) values ('BR', 'Estádio Brinco de Ouro d
 insert into stadium (countrycode, name) values ('BR', 'Estádio Bruno José Daniel');
 insert into stadium (countrycode, name) values ('BR', 'Estádio Cláudio Moacyr de Azevedo');
 insert into stadium (countrycode, name) values ('BR', 'Estádio Cornélio de Barros');
-insert into stadium (countrycode, name) values ('BR', 'Estádio Cícero Pompeu de Toledo');
+insert into stadium (countrycode, name) values ('BR', 'Estádio Cícero Pompeu de Toledo', 'Morumbi');
 insert into stadium (countrycode, name) values ('BR', 'Estádio Doutor Adhemar de Barros');
 insert into stadium (countrycode, name) values ('BR', 'Estádio Doutor Getúlio Dornelles Vargas');
 insert into stadium (countrycode, name) values ('BR', 'Estádio Doutor Hercílio Luz');
@@ -1096,7 +1097,7 @@ insert into stadium (countrycode, name) values ('BR', 'Estádio Estadual Louriva
 insert into stadium (countrycode, name) values ('BR', 'Estádio Evandro Almeida');
 insert into stadium (countrycode, name) values ('BR', 'Estádio Flamarion Vasconcelos');
 insert into stadium (countrycode, name) values ('BR', 'Estádio Francisco Novelletto Neto');
-insert into stadium (countrycode, name) values ('BR', 'Estádio Francisco Stédile');
+insert into stadium (countrycode, name, nickname) values ('BR', 'Estádio Francisco Stédile', 'Centenário Caxias do Sul');
 insert into stadium (countrycode, name) values ('BR', 'Estádio Francisco Vasques');
 insert into stadium (countrycode, name) values ('BR', 'Estádio Frei Epifânio DAbadia');
 insert into stadium (countrycode, name) values ('BR', 'Estádio General Sylvio Raulino de Oliveira');
@@ -1116,7 +1117,7 @@ insert into stadium (countrycode, name) values ('BR', 'Estádio Joaquim Henrique
 insert into stadium (countrycode, name) values ('BR', 'Estádio Joaquim Portugal');
 insert into stadium (countrycode, name) values ('BR', 'Estádio Jonas Ferreira Duarte');
 insert into stadium (countrycode, name) values ('BR', 'Estádio Jorge Ismael de Biasi');
-insert into stadium (countrycode, name) values ('BR', 'Estádio Jornalista Mário Filho');
+insert into stadium (countrycode, name, nickname) values ('BR', 'Estádio Jornalista Mário Filho', 'Maracanã');
 insert into stadium (countrycode, name) values ('BR', 'Estádio José Gomes da Costa');
 insert into stadium (countrycode, name) values ('BR', 'Estádio José Mammoud Abbas');
 insert into stadium (countrycode, name) values ('BR', 'Estádio José Olimpio da Rocha');
@@ -1178,7 +1179,7 @@ insert into stadium (countrycode, name) values ('BR', 'Estádio Nacional de Bras
 insert into stadium (countrycode, name) values ('BR', 'Estádio Nilton Santos');
 insert into stadium (countrycode, name) values ('BR', 'Estádio Olimpico Albino Turbay');
 insert into stadium (countrycode, name) values ('BR', 'Estádio Olímpico Colosso da Lagoa');
-insert into stadium (countrycode, name) values ('BR', 'Estádio Olímpico Monumental');
+insert into stadium (countrycode, name, nickname) values ('BR', 'Estádio Olímpico Monumental', 'Olímpico');
 insert into stadium (countrycode, name) values ('BR', 'Estádio Olímpico Municipal Gilberto Mestrinho');
 insert into stadium (countrycode, name) values ('BR', 'Estádio Olímpico Nilton Santos');
 insert into stadium (countrycode, name) values ('BR', 'Estádio Olímpico Pedro Ludovico Teixeira');
@@ -1225,12 +1226,11 @@ insert into stadium (countrycode, name) values ('BR', 'Neo Química Arena');
 insert into stadium (countrycode, name) values ('BR', 'Neo Química Arena');
 insert into stadium (countrycode, name) values ('BR', 'Os Pioneiros');
 insert into stadium (countrycode, name) values ('BR', 'Pinheirão');
-insert into stadium (countrycode, name) values ('BR', 'Estádio Centenário');
+insert into stadium (countrycode, name) values ('UY', 'Estádio Centenario', 'Centenário Uruguay');
 insert into stadium (countrycode, name) values ('UY', 'Atílio Paiva');
 insert into stadium (countrycode, name) values ('BR', 'Montanha dos Vinhedos');
-insert into stadium (countrycode, name) values ('BR', 'Estádio dos Eucaliptos');
 insert into stadium (countrycode, name) values ('BR', 'Estádio da Baixada Rubra');
-insert into stadium (countrycode, name) values ('BR', 'Estádio da Chácara dos Eucaliptos');
+insert into stadium (countrycode, name, nickname) values ('BR', 'Estádio da Chácara dos Eucaliptos', 'EUCALIPTOS');
 insert into stadium (countrycode, name) values ('BR', 'Estádio da Chácara das Camélias');
 insert into stadium (countrycode, name) values ('BR', 'Campo da Escola de Guerra');
 insert into stadium (countrycode, name) values ('BR', 'Estádio da Baixada');
@@ -1238,6 +1238,7 @@ insert into stadium (countrycode, name) values ('BR', 'Estádio da Timbaúva');
 insert into stadium (countrycode, name) values ('BR', 'Estádio Tiradentes');
 insert into stadium (countrycode, name) values ('BR', 'Estádio Aldo Dapuzzo');
 insert into stadium (countrycode, name) values ('BR', 'Estádio dos Plátanos');
+
 --- Planilha Perin
 insert into stadium (countrycode, name) values ('BR', 'Millitar');
 insert into stadium (countrycode, name) values ('BR', 'Blitz');
@@ -1303,7 +1304,6 @@ insert into stadium (countrycode, name) values ('BR', 'CARLOS DENARDIN');
 insert into stadium (countrycode, name) values ('BR', 'CASCAVEL');
 insert into stadium (countrycode, name) values ('BR', 'CASTANHEIRA');
 insert into stadium (countrycode, name) values ('BR', 'CAXIAS DO SUL');
-insert into stadium (countrycode, name) values ('BR', 'CENTENÁRIO EM CAXIAS');
 insert into stadium (countrycode, name) values ('BR', 'CEREJÃO');
 insert into stadium (countrycode, name) values ('BR', 'CHILE');
 insert into stadium (countrycode, name) values ('BR', 'CIDREIRA');
@@ -1415,6 +1415,7 @@ insert into stadium (countrycode, name) values ('BR', 'GOVERNADOR JÃO CASTELO -
 insert into stadium (countrycode, name) values ('BR', 'GRAMADENSE');
 insert into stadium (countrycode, name) values ('BR', 'GRAVATAÍ');
 insert into stadium (countrycode, name) values ('BR', 'GRÊMIO BAGÉ');
+insert into stadium (countrycode, name, description) values ('BR', 'GRÊMIO', 'Estádio não identificado mas mando do Grêmio');
 insert into stadium (countrycode, name) values ('BR', 'GUADALUPE');
 insert into stadium (countrycode, name) values ('BR', 'GUAÍBA');
 insert into stadium (countrycode, name) values ('BR', 'GUARANI');
@@ -1461,7 +1462,6 @@ insert into stadium (countrycode, name) values ('BR', 'LONDRINA');
 insert into stadium (countrycode, name) values ('BR', 'MACHADÃO');
 insert into stadium (countrycode, name) values ('BR', 'MAL. DE FERRO');
 insert into stadium (countrycode, name) values ('BR', 'MANGUEIRÃO');
-insert into stadium (countrycode, name) values ('BR', 'MARACANÃ');
 insert into stadium (countrycode, name) values ('BR', 'MARANHÃO');
 insert into stadium (countrycode, name) values ('BR', 'MARAU');
 insert into stadium (countrycode, name) values ('BR', 'MARECHAL HERMES');
