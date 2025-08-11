@@ -1,0 +1,381 @@
+id,date,round,teamHome,scoreTeamHome,teamAway,scoreTeamAway,,image
+1468055,2022-04-09,Round 1,Fluminense,0,Santos FC,0,,https://r2.thesportsdb.com/images/media/event/thumb/b776861644935537.jpg
+1468061,2022-04-09,Round 1,Atletico GO,1,Flamengo,1,,https://r2.thesportsdb.com/images/media/event/thumb/50cehz1644935539.jpg
+1468057,2022-04-10,Round 1,Palmeiras,2,Ceara,3,,https://r2.thesportsdb.com/images/media/event/thumb/vej68c1644935537.jpg
+1468063,2022-04-10,Round 1,Coritiba,3,Goias,0,,https://r2.thesportsdb.com/images/media/event/thumb/ezqn581644935539.jpg
+1468054,2022-04-10,Round 1,Atletico MG,2,Internacional,0,,https://r2.thesportsdb.com/images/media/event/thumb/6nlkuv1644935537.jpg
+1468058,2022-04-10,Round 1,Botafogo RJ,1,Corinthians,3,,https://r2.thesportsdb.com/images/media/event/thumb/wr7ts11644935538.jpg
+1468060,2022-04-10,Round 1,Fortaleza,0,Cuiaba,1,,https://r2.thesportsdb.com/images/media/event/thumb/3abzio1644935538.jpg
+1468056,2022-04-10,Round 1,Sao Paulo,4,Atletico PR,0,,https://r2.thesportsdb.com/images/media/event/thumb/qc5gmr1644935537.jpg
+1468062,2022-04-10,Round 1,Avai FC,1,America MG,0,,https://r2.thesportsdb.com/images/media/event/thumb/5q608w1644935539.jpg
+1468059,2022-04-11,Round 1,Juventude,2,Bragantino,2,,https://r2.thesportsdb.com/images/media/event/thumb/qyturn1644935538.jpg
+1468071,2022-04-16,Round 2,Goias,1,Palmeiras,1,,https://r2.thesportsdb.com/images/media/event/thumb/kxp7gx1644935541.jpg
+1468064,2022-04-16,Round 2,America MG,4,Juventude,1,,https://r2.thesportsdb.com/images/media/event/thumb/dpymxn1644935539.jpg
+1468067,2022-04-16,Round 2,Corinthians,3,Avai FC,0,,https://r2.thesportsdb.com/images/media/event/thumb/l0ndui1644935540.jpg
+1468072,2022-04-17,Round 2,Cuiaba,0,Fluminense,1,,https://r2.thesportsdb.com/images/media/event/thumb/fd8thh1644935542.jpg
+1468068,2022-04-17,Round 2,Santos FC,2,Coritiba,1,,https://r2.thesportsdb.com/images/media/event/thumb/nbgfd41644935541.jpg
+1468065,2022-04-17,Round 2,Flamengo,3,Sao Paulo,1,,https://r2.thesportsdb.com/images/media/event/thumb/oge7ps1644935540.jpg
+1468066,2022-04-17,Round 2,Bragantino,4,Atletico GO,0,,https://r2.thesportsdb.com/images/media/event/thumb/5px39d1644935540.jpg
+1468069,2022-04-17,Round 2,Internacional,2,Fortaleza,1,,https://r2.thesportsdb.com/images/media/event/thumb/3cpfbv1644935541.jpg
+1468073,2022-04-17,Round 2,Atletico PR,0,Atletico MG,1,,https://r2.thesportsdb.com/images/media/event/thumb/fa3uub1644935542.jpg
+1468070,2022-04-17,Round 2,Ceara,1,Botafogo RJ,3,,https://r2.thesportsdb.com/images/media/event/thumb/kru0iy1644935541.jpg
+1468085,2022-04-20,Round 4,Flamengo,0,Palmeiras,0,,https://r2.thesportsdb.com/images/media/event/thumb/gmxuis1644935546.jpg
+1468083,2022-04-23,Round 3,Atletico PR,1,Flamengo,0,,https://r2.thesportsdb.com/images/media/event/thumb/c7l3fe1644935545.jpg
+1468076,2022-04-23,Round 3,Bragantino,1,Sao Paulo,1,,https://r2.thesportsdb.com/images/media/event/thumb/ghwq6l1644935543.jpg
+1468077,2022-04-23,Round 3,Palmeiras,3,Corinthians,0,,https://r2.thesportsdb.com/images/media/event/thumb/3r3ppa1644935543.jpg
+1468075,2022-04-23,Round 3,Fluminense,0,Internacional,1,,https://r2.thesportsdb.com/images/media/event/thumb/1cs61g1644935543.jpg
+1468074,2022-04-24,Round 3,Atletico MG,2,Coritiba,2,,https://r2.thesportsdb.com/images/media/event/thumb/9bffmp1644935542.jpg
+1468078,2022-04-24,Round 3,Santos FC,3,America MG,0,,https://r2.thesportsdb.com/images/media/event/thumb/8rtldg1644935544.jpg
+1468079,2022-04-24,Round 3,Juventude,0,Cuiaba,1,,https://r2.thesportsdb.com/images/media/event/thumb/ulf5h71644935544.jpg
+1468081,2022-04-24,Round 3,Atletico GO,1,Botafogo RJ,1,,https://r2.thesportsdb.com/images/media/event/thumb/vnlzju1644935545.jpg
+1468082,2022-04-25,Round 3,Avai FC,3,Goias,2,,https://r2.thesportsdb.com/images/media/event/thumb/mf0c641644935545.jpg
+1468084,2022-04-30,Round 4,America MG,1,Atletico PR,0,,https://r2.thesportsdb.com/images/media/event/thumb/43bqas1644935545.jpg
+1468090,2022-04-30,Round 4,Ceara,0,Bragantino,1,,https://r2.thesportsdb.com/images/media/event/thumb/s1gklt1644935547.jpg
+1468091,2022-04-30,Round 4,Goias,2,Atletico MG,2,,https://r2.thesportsdb.com/images/media/event/thumb/bqnt751644935547.jpg
+1468092,2022-04-30,Round 4,Cuiaba,1,Atletico GO,1,,https://r2.thesportsdb.com/images/media/event/thumb/nbrxyd1644935548.jpg
+1468088,2022-05-01,Round 4,Botafogo RJ,1,Juventude,1,,https://r2.thesportsdb.com/images/media/event/thumb/c3lt2u1644935547.jpg
+1468087,2022-05-01,Round 4,Corinthians,1,Fortaleza,0,,https://r2.thesportsdb.com/images/media/event/thumb/j5j8su1644935546.jpg
+1468093,2022-05-01,Round 4,Coritiba,3,Fluminense,2,,https://r2.thesportsdb.com/images/media/event/thumb/pdzdkb1644935548.jpg
+1468089,2022-05-01,Round 4,Internacional,0,Avai FC,0,,https://r2.thesportsdb.com/images/media/event/thumb/cn0yhg1644935547.jpg
+1468086,2022-05-02,Round 4,Sao Paulo,2,Santos FC,1,,https://r2.thesportsdb.com/images/media/event/thumb/i7l1g61644935546.jpg
+1468094,2022-05-07,Round 5,Atletico MG,1,America MG,2,,https://r2.thesportsdb.com/images/media/event/thumb/bhseol1644935548.jpg
+1468103,2022-05-07,Round 5,Atletico PR,1,Ceara,0,,https://r2.thesportsdb.com/images/media/event/thumb/zo4g7d1644935551.jpg
+1468095,2022-05-08,Round 5,Flamengo,0,Botafogo RJ,1,,https://r2.thesportsdb.com/images/media/event/thumb/r01e4x1644935549.jpg
+1468101,2022-05-08,Round 5,Atletico GO,0,Goias,1,,https://r2.thesportsdb.com/images/media/event/thumb/wu6xnd1644935550.jpg
+1468097,2022-05-08,Round 5,Palmeiras,1,Fluminense,1,,https://r2.thesportsdb.com/images/media/event/thumb/y3jbqy1644935549.jpg
+1468096,2022-05-08,Round 5,Bragantino,0,Corinthians,1,,https://r2.thesportsdb.com/images/media/event/thumb/ejumty1644935549.jpg
+1468098,2022-05-08,Round 5,Santos FC,4,Cuiaba,1,,https://r2.thesportsdb.com/images/media/event/thumb/rhloy31644935549.jpg
+1468100,2022-05-08,Round 5,Fortaleza,1,Sao Paulo,1,,https://r2.thesportsdb.com/images/media/event/thumb/1857ea1644935550.jpg
+1468099,2022-05-08,Round 5,Juventude,1,Internacional,1,,https://r2.thesportsdb.com/images/media/event/thumb/qga8981644935550.jpg
+1468102,2022-05-09,Round 5,Avai FC,2,Coritiba,1,,https://r2.thesportsdb.com/images/media/event/thumb/h8lrge1644935551.jpg
+1468116,2022-05-11,Round 7,Bragantino,1,Atletico MG,1,,https://r2.thesportsdb.com/images/media/event/thumb/6p38pu1644935555.jpg
+1468107,2022-05-14,Round 6,Palmeiras,2,Bragantino,0,,https://r2.thesportsdb.com/images/media/event/thumb/dt2d9n1644935552.jpg
+1468110,2022-05-14,Round 6,Ceara,2,Flamengo,2,,https://r2.thesportsdb.com/images/media/event/thumb/i247321644935553.jpg
+1468104,2022-05-14,Round 6,Atletico MG,2,Atletico GO,0,,https://r2.thesportsdb.com/images/media/event/thumb/1tp5a21644935551.jpg
+1468109,2022-05-14,Round 6,Internacional,2,Corinthians,2,,https://r2.thesportsdb.com/images/media/event/thumb/ghqkmd1644935553.jpg
+1468105,2022-05-15,Round 6,Fluminense,2,Atletico PR,1,,https://r2.thesportsdb.com/images/media/event/thumb/ugqdbo1644935552.jpg
+1468106,2022-05-15,Round 6,Sao Paulo,2,Cuiaba,1,,https://r2.thesportsdb.com/images/media/event/thumb/63rmq51644935552.jpg
+1468113,2022-05-15,Round 6,Coritiba,1,America MG,0,,https://r2.thesportsdb.com/images/media/event/thumb/j3q3bl1644935554.jpg
+1468108,2022-05-15,Round 6,Botafogo RJ,3,Fortaleza,1,,https://r2.thesportsdb.com/images/media/event/thumb/o0c3vl1644935552.jpg
+1468112,2022-05-15,Round 6,Avai FC,1,Juventude,2,,https://r2.thesportsdb.com/images/media/event/thumb/86eelx1644935554.jpg
+1468111,2022-05-15,Round 6,Goias,1,Santos FC,0,,https://r2.thesportsdb.com/images/media/event/thumb/s2fexb1644935553.jpg
+1468115,2022-05-21,Round 7,Flamengo,1,Goias,0,,https://r2.thesportsdb.com/images/media/event/thumb/e6jyil1644935554.jpg
+1468121,2022-05-21,Round 7,Atletico GO,2,Coritiba,0,,https://r2.thesportsdb.com/images/media/event/thumb/uvfq2s1644935556.jpg
+1468118,2022-05-21,Round 7,Santos FC,0,Ceara,0,,https://r2.thesportsdb.com/images/media/event/thumb/q4kwrn1644935555.jpg
+1468119,2022-05-21,Round 7,Juventude,0,Palmeiras,3,,https://r2.thesportsdb.com/images/media/event/thumb/0telr71644935556.jpg
+1468122,2022-05-22,Round 7,Cuiaba,1,Internacional,1,,https://r2.thesportsdb.com/images/media/event/thumb/p3t2gl1644935557.jpg
+1468114,2022-05-22,Round 7,America MG,1,Botafogo RJ,1,,https://r2.thesportsdb.com/images/media/event/thumb/gvv7nu1644935554.jpg
+1468117,2022-05-22,Round 7,Corinthians,1,Sao Paulo,1,,https://r2.thesportsdb.com/images/media/event/thumb/75zf7c1644935555.jpg
+1468120,2022-05-22,Round 7,Fortaleza,0,Fluminense,1,,https://r2.thesportsdb.com/images/media/event/thumb/6x74i21644935556.jpg
+1468123,2022-05-22,Round 7,Atletico PR,2,Avai FC,1,,https://r2.thesportsdb.com/images/media/event/thumb/20pqdq1644935557.jpg
+1468131,2022-05-28,Round 8,Goias,1,Bragantino,1,,https://r2.thesportsdb.com/images/media/event/thumb/8k92g41644935559.jpg
+1468126,2022-05-28,Round 8,Sao Paulo,2,Ceara,2,,https://r2.thesportsdb.com/images/media/event/thumb/zn8ngs1644935558.jpg
+1468130,2022-05-28,Round 8,Fortaleza,1,Juventude,1,,https://r2.thesportsdb.com/images/media/event/thumb/8cns1v1644935559.jpg
+1468128,2022-05-29,Round 8,Santos FC,0,Palmeiras,1,,https://r2.thesportsdb.com/images/media/event/thumb/hfdo2b1644935558.jpg
+1468133,2022-05-29,Round 8,Coritiba,1,Botafogo RJ,0,,https://r2.thesportsdb.com/images/media/event/thumb/pexow11644935560.jpg
+1468125,2022-05-29,Round 8,Fluminense,1,Flamengo,2,,https://r2.thesportsdb.com/images/media/event/thumb/8u18wh1644935557.jpg
+1468127,2022-05-29,Round 8,Corinthians,1,America MG,1,,https://r2.thesportsdb.com/images/media/event/thumb/vva9cs1644935558.jpg
+1468132,2022-05-29,Round 8,Cuiaba,0,Atletico PR,1,,https://r2.thesportsdb.com/images/media/event/thumb/12egdd1644935559.jpg
+1468124,2022-05-29,Round 8,Atletico MG,2,Avai FC,1,,https://r2.thesportsdb.com/images/media/event/thumb/5b86rq1644935557.jpg
+1468129,2022-05-30,Round 8,Internacional,1,Atletico GO,1,,https://r2.thesportsdb.com/images/media/event/thumb/ajj5c91644935559.jpg
+1468080,2022-06-01,Round 3,Fortaleza,0,Ceara,1,,https://r2.thesportsdb.com/images/media/event/thumb/rmzath1644935544.jpg
+1468134,2022-06-04,Round 9,America MG,2,Cuiaba,1,,https://r2.thesportsdb.com/images/media/event/thumb/uh96vq1644935560.jpg
+1468143,2022-06-04,Round 9,Atletico PR,2,Santos FC,2,,https://r2.thesportsdb.com/images/media/event/thumb/tm9ypn1644935563.jpg
+1468140,2022-06-04,Round 9,Ceara,1,Coritiba,1,,https://r2.thesportsdb.com/images/media/event/thumb/orfqe01644935562.jpg
+1468142,2022-06-04,Round 9,Avai FC,1,Sao Paulo,1,,https://r2.thesportsdb.com/images/media/event/thumb/l59a7t1644935563.jpg
+1468141,2022-06-04,Round 9,Atletico GO,0,Corinthians,1,,https://r2.thesportsdb.com/images/media/event/thumb/am6atf1644935562.jpg
+1468139,2022-06-05,Round 9,Juventude,1,Fluminense,0,,https://r2.thesportsdb.com/images/media/event/thumb/12q7eg1644935561.jpg
+1468135,2022-06-05,Round 9,Flamengo,1,Fortaleza,2,,https://r2.thesportsdb.com/images/media/event/thumb/7485sn1644935560.jpg
+1468137,2022-06-05,Round 9,Palmeiras,0,Atletico MG,0,,https://r2.thesportsdb.com/images/media/event/thumb/uziwel1644935561.jpg
+1468136,2022-06-05,Round 9,Bragantino,0,Internacional,2,,https://r2.thesportsdb.com/images/media/event/thumb/y807ik1644935561.jpg
+1468138,2022-06-06,Round 9,Botafogo RJ,1,Goias,2,,https://r2.thesportsdb.com/images/media/event/thumb/0hknp51644935561.jpg
+1468152,2022-06-08,Round 10,Cuiaba,1,Corinthians,0,,https://r2.thesportsdb.com/images/media/event/thumb/336jky1644935566.jpg
+1468144,2022-06-08,Round 10,America MG,0,Ceara,2,,https://r2.thesportsdb.com/images/media/event/thumb/49il3z1644935563.jpg
+1468149,2022-06-08,Round 10,Juventude,1,Atletico PR,3,,https://r2.thesportsdb.com/images/media/event/thumb/3op1rq1644935565.jpg
+1468146,2022-06-08,Round 10,Bragantino,1,Flamengo,0,,https://r2.thesportsdb.com/images/media/event/thumb/khxzm91644935564.jpg
+1468151,2022-06-08,Round 10,Atletico GO,2,Avai FC,1,,https://r2.thesportsdb.com/images/media/event/thumb/ybmmin1644935565.jpg
+1468145,2022-06-09,Round 10,Fluminense,5,Atletico MG,3,,https://r2.thesportsdb.com/images/media/event/thumb/o7zh371644935564.jpg
+1468148,2022-06-09,Round 10,Santos FC,1,Internacional,1,,https://r2.thesportsdb.com/images/media/event/thumb/xlazwq1644935564.jpg
+1468147,2022-06-09,Round 10,Palmeiras,4,Botafogo RJ,0,,https://r2.thesportsdb.com/images/media/event/thumb/j8id4e1644935564.jpg
+1468150,2022-06-09,Round 10,Fortaleza,1,Goias,1,,https://r2.thesportsdb.com/images/media/event/thumb/3cmqud1644935565.jpg
+1468153,2022-06-09,Round 10,Coritiba,1,Sao Paulo,1,,https://r2.thesportsdb.com/images/media/event/thumb/gzewf21644935566.jpg
+1468157,2022-06-11,Round 11,Corinthians,2,Juventude,0,,https://r2.thesportsdb.com/images/media/event/thumb/ybjggo1644935567.jpg
+1468154,2022-06-11,Round 11,Atletico MG,1,Santos FC,1,,https://r2.thesportsdb.com/images/media/event/thumb/7pq4uk1644935566.jpg
+1468155,2022-06-11,Round 11,Fluminense,0,Atletico GO,2,,https://r2.thesportsdb.com/images/media/event/thumb/4bc2j81644935566.jpg
+1468162,2022-06-11,Round 11,Cuiaba,1,Bragantino,1,,https://r2.thesportsdb.com/images/media/event/thumb/n325331644935568.jpg
+1468159,2022-06-12,Round 11,Internacional,3,Flamengo,1,,https://r2.thesportsdb.com/images/media/event/thumb/7j4fw31644935568.jpg
+1468156,2022-06-12,Round 11,Sao Paulo,1,America MG,0,,https://r2.thesportsdb.com/images/media/event/thumb/pj7zwq1644935567.jpg
+1468161,2022-06-12,Round 11,Goias,1,Ceara,1,,https://r2.thesportsdb.com/images/media/event/thumb/ktlj341644935568.jpg
+1468163,2022-06-12,Round 11,Coritiba,0,Palmeiras,2,,https://r2.thesportsdb.com/images/media/event/thumb/5rf8cg1644935569.jpg
+1468160,2022-06-12,Round 11,Fortaleza,0,Atletico PR,0,,https://r2.thesportsdb.com/images/media/event/thumb/kkbaxl1644935568.jpg
+1468158,2022-06-13,Round 11,Botafogo RJ,0,Avai FC,1,,https://r2.thesportsdb.com/images/media/event/thumb/5mukgp1644935567.jpg
+1468169,2022-06-15,Round 12,Juventude,1,Santos FC,2,,https://r2.thesportsdb.com/images/media/event/thumb/pg8fsb1644935570.jpg
+1468170,2022-06-15,Round 12,Ceara,0,Atletico MG,0,,https://r2.thesportsdb.com/images/media/event/thumb/cjvrbw1644935571.jpg
+1468166,2022-06-15,Round 12,Bragantino,4,Coritiba,2,,https://r2.thesportsdb.com/images/media/event/thumb/r4abyd1644935570.jpg
+1468171,2022-06-15,Round 12,Goias,1,Internacional,2,,https://r2.thesportsdb.com/images/media/event/thumb/fp0zlj1644935571.jpg
+1468165,2022-06-15,Round 12,Flamengo,2,Cuiaba,0,,https://r2.thesportsdb.com/images/media/event/thumb/ekoql31644935569.jpg
+1468164,2022-06-16,Round 12,America MG,0,Fluminense,0,,https://r2.thesportsdb.com/images/media/event/thumb/2qr2e71644935569.jpg
+1468173,2022-06-16,Round 12,Atletico PR,1,Corinthians,1,,https://r2.thesportsdb.com/images/media/event/thumb/jycqz11644935572.jpg
+1468168,2022-06-16,Round 12,Botafogo RJ,1,Sao Paulo,0,,https://r2.thesportsdb.com/images/media/event/thumb/87xist1644935570.jpg
+1468167,2022-06-16,Round 12,Palmeiras,4,Atletico GO,2,,https://r2.thesportsdb.com/images/media/event/thumb/jq8hh71644935570.jpg
+1468172,2022-06-16,Round 12,Avai FC,3,Fortaleza,2,,https://r2.thesportsdb.com/images/media/event/thumb/3su66d1644935571.jpg
+1468182,2022-06-18,Round 13,Cuiaba,0,Ceara,0,,https://r2.thesportsdb.com/images/media/event/thumb/flhptt1644935574.jpg
+1468178,2022-06-19,Round 13,Santos FC,2,Bragantino,2,,https://r2.thesportsdb.com/images/media/event/thumb/kw49r21644935573.jpg
+1468174,2022-06-19,Round 13,Atletico MG,2,Flamengo,0,,https://r2.thesportsdb.com/images/media/event/thumb/5g8gz81644935572.jpg
+1468177,2022-06-19,Round 13,Corinthians,1,Goias,0,,https://r2.thesportsdb.com/images/media/event/thumb/2mk6g91644935573.jpg
+1468183,2022-06-19,Round 13,Coritiba,0,Atletico PR,1,,https://r2.thesportsdb.com/images/media/event/thumb/qavflg1644935575.jpg
+1468179,2022-06-19,Round 13,Internacional,2,Botafogo RJ,3,,https://r2.thesportsdb.com/images/media/event/thumb/f1en9a1644935574.jpg
+1468180,2022-06-19,Round 13,Fortaleza,1,America MG,0,,https://r2.thesportsdb.com/images/media/event/thumb/t1ws2e1644935574.jpg
+1468181,2022-06-19,Round 13,Atletico GO,3,Juventude,1,,https://r2.thesportsdb.com/images/media/event/thumb/sthnrm1644935574.jpg
+1468175,2022-06-19,Round 13,Fluminense,2,Avai FC,0,,https://r2.thesportsdb.com/images/media/event/thumb/0j5doo1644935572.jpg
+1468176,2022-06-20,Round 13,Sao Paulo,1,Palmeiras,2,,https://r2.thesportsdb.com/images/media/event/thumb/e3v5dj1644935573.jpg
+1468189,2022-06-25,Round 14,Internacional,3,Coritiba,0,,https://r2.thesportsdb.com/images/media/event/thumb/uz0nah1644935576.jpg
+1468193,2022-06-25,Round 14,Atletico PR,4,Bragantino,2,,https://r2.thesportsdb.com/images/media/event/thumb/uorgih1644935577.jpg
+1468185,2022-06-25,Round 14,Flamengo,3,America MG,0,,https://r2.thesportsdb.com/images/media/event/thumb/oq8k971644935575.jpg
+1468187,2022-06-25,Round 14,Corinthians,0,Santos FC,0,,https://r2.thesportsdb.com/images/media/event/thumb/qc0mru1644935576.jpg
+1468184,2022-06-26,Round 14,Atletico MG,3,Fortaleza,2,,https://r2.thesportsdb.com/images/media/event/thumb/owf4d81644935575.jpg
+1468188,2022-06-26,Round 14,Botafogo RJ,0,Fluminense,1,,https://r2.thesportsdb.com/images/media/event/thumb/v8u4er1644935576.jpg
+1468192,2022-06-26,Round 14,Avai FC,2,Palmeiras,2,,https://r2.thesportsdb.com/images/media/event/thumb/on1v2l1644935577.jpg
+1468186,2022-06-26,Round 14,Sao Paulo,0,Juventude,0,,https://r2.thesportsdb.com/images/media/event/thumb/lhtg0u1644935576.jpg
+1468190,2022-06-26,Round 14,Ceara,1,Atletico GO,1,,https://r2.thesportsdb.com/images/media/event/thumb/okadw01644935577.jpg
+1468191,2022-06-26,Round 14,Goias,1,Cuiaba,0,,https://r2.thesportsdb.com/images/media/event/thumb/81hqtn1644935577.jpg
+1468199,2022-07-02,Round 15,Juventude,1,Atletico MG,2,,https://r2.thesportsdb.com/images/media/event/thumb/encb4y1644935579.jpg
+1468195,2022-07-02,Round 15,Fluminense,4,Corinthians,0,,https://r2.thesportsdb.com/images/media/event/thumb/2rwvbn1644935578.jpg
+1468198,2022-07-02,Round 15,Santos FC,1,Flamengo,2,,https://r2.thesportsdb.com/images/media/event/thumb/9wz9ro1644935579.jpg
+1468200,2022-07-02,Round 15,Ceara,1,Internacional,1,,https://r2.thesportsdb.com/images/media/event/thumb/qakedy1644935580.jpg
+1468197,2022-07-03,Round 15,Palmeiras,0,Atletico PR,2,,https://r2.thesportsdb.com/images/media/event/thumb/ax56351644935579.jpg
+1468202,2022-07-03,Round 15,Avai FC,1,Cuiaba,2,,https://r2.thesportsdb.com/images/media/event/thumb/4dihia1644935580.jpg
+1468201,2022-07-03,Round 15,Atletico GO,1,Sao Paulo,2,,https://r2.thesportsdb.com/images/media/event/thumb/lxw97g1644935580.jpg
+1468194,2022-07-03,Round 15,America MG,1,Goias,0,,https://r2.thesportsdb.com/images/media/event/thumb/8dx3gj1644935578.jpg
+1468203,2022-07-03,Round 15,Coritiba,2,Fortaleza,1,,https://r2.thesportsdb.com/images/media/event/thumb/uf6ejj1644935580.jpg
+1468196,2022-07-04,Round 15,Bragantino,0,Botafogo RJ,1,,https://r2.thesportsdb.com/images/media/event/thumb/zg25fo1644935578.jpg
+1468206,2022-07-09,Round 16,Bragantino,4,Avai FC,0,,https://r2.thesportsdb.com/images/media/event/thumb/j96em61644935581.jpg
+1468205,2022-07-09,Round 16,Fluminense,2,Ceara,1,,https://r2.thesportsdb.com/images/media/event/thumb/dsij301644935581.jpg
+1468211,2022-07-09,Round 16,Goias,2,Atletico PR,1,,https://r2.thesportsdb.com/images/media/event/thumb/p2y67r1644935583.jpg
+1468213,2022-07-10,Round 16,Coritiba,2,Juventude,2,,https://r2.thesportsdb.com/images/media/event/thumb/a7kquz1644935583.jpg
+1468207,2022-07-10,Round 16,Corinthians,1,Flamengo,0,,https://r2.thesportsdb.com/images/media/event/thumb/po8qmb1644935582.jpg
+1468204,2022-07-10,Round 16,Atletico MG,0,Sao Paulo,0,,https://r2.thesportsdb.com/images/media/event/thumb/j0mq3b1644935581.jpg
+1468208,2022-07-10,Round 16,Santos FC,1,Atletico GO,0,,https://r2.thesportsdb.com/images/media/event/thumb/mj0rz21644935582.jpg
+1468210,2022-07-10,Round 16,Fortaleza,0,Palmeiras,0,,https://r2.thesportsdb.com/images/media/event/thumb/08fuze1644935582.jpg
+1468212,2022-07-10,Round 16,Cuiaba,2,Botafogo RJ,0,,https://r2.thesportsdb.com/images/media/event/thumb/eecb9b1644935583.jpg
+1468209,2022-07-11,Round 16,Internacional,1,America MG,0,,https://r2.thesportsdb.com/images/media/event/thumb/b78eod1644935582.jpg
+1468223,2022-07-16,Round 17,Atletico PR,0,Internacional,0,,https://r2.thesportsdb.com/images/media/event/thumb/jokd0y1644935586.jpg
+1468215,2022-07-16,Round 17,Flamengo,2,Coritiba,0,,https://r2.thesportsdb.com/images/media/event/thumb/w4cjmw1644935584.jpg
+1468222,2022-07-16,Round 17,Avai FC,1,Santos FC,0,,https://r2.thesportsdb.com/images/media/event/thumb/698hkp1644935586.jpg
+1468220,2022-07-17,Round 17,Ceara,3,Corinthians,1,,https://r2.thesportsdb.com/images/media/event/thumb/8zanyb1644935585.jpg
+1468219,2022-07-17,Round 17,Juventude,0,Goias,0,,https://r2.thesportsdb.com/images/media/event/thumb/ozqu5x1644935585.jpg
+1468216,2022-07-17,Round 17,Sao Paulo,2,Fluminense,2,,https://r2.thesportsdb.com/images/media/event/thumb/ak93wq1644935584.jpg
+1468218,2022-07-17,Round 17,Botafogo RJ,0,Atletico MG,1,,https://r2.thesportsdb.com/images/media/event/thumb/2kht641644935585.jpg
+1468221,2022-07-17,Round 17,Atletico GO,0,Fortaleza,1,,https://r2.thesportsdb.com/images/media/event/thumb/z0gl721644935586.jpg
+1468214,2022-07-17,Round 17,America MG,0,Bragantino,3,,https://r2.thesportsdb.com/images/media/event/thumb/fe3s9s1644935584.jpg
+1468217,2022-07-18,Round 17,Palmeiras,1,Cuiaba,0,,https://r2.thesportsdb.com/images/media/event/thumb/dwliis1644935584.jpg
+1468230,2022-07-20,Round 18,Ceara,1,Avai FC,0,,https://r2.thesportsdb.com/images/media/event/thumb/m950tf1644935588.jpg
+1468226,2022-07-20,Round 18,Bragantino,2,Fortaleza,1,,https://r2.thesportsdb.com/images/media/event/thumb/9g1d161644935587.jpg
+1468231,2022-07-20,Round 18,Goias,2,Fluminense,3,,https://r2.thesportsdb.com/images/media/event/thumb/dj08zv1644935589.jpg
+1468233,2022-07-20,Round 18,Atletico PR,4,Atletico GO,1,,https://r2.thesportsdb.com/images/media/event/thumb/u36t0k1644935589.jpg
+1468225,2022-07-20,Round 18,Flamengo,4,Juventude,0,,https://r2.thesportsdb.com/images/media/event/thumb/zweii41644935587.jpg
+1468229,2022-07-20,Round 18,Internacional,3,Sao Paulo,3,,https://r2.thesportsdb.com/images/media/event/thumb/i7t69v1644935588.jpg
+1468227,2022-07-21,Round 18,Corinthians,3,Coritiba,1,,https://r2.thesportsdb.com/images/media/event/thumb/s6wyv51644935587.jpg
+1468228,2022-07-21,Round 18,Santos FC,2,Botafogo RJ,0,,https://r2.thesportsdb.com/images/media/event/thumb/t1s69l1644935588.jpg
+1468232,2022-07-21,Round 18,Cuiaba,1,Atletico MG,1,,https://r2.thesportsdb.com/images/media/event/thumb/hpf72h1644935589.jpg
+1468224,2022-07-21,Round 18,America MG,0,Palmeiras,1,,https://r2.thesportsdb.com/images/media/event/thumb/jbpou91644935587.jpg
+1468236,2022-07-23,Round 19,Sao Paulo,3,Goias,3,,https://r2.thesportsdb.com/images/media/event/thumb/aq62fl1644935590.jpg
+1468238,2022-07-24,Round 19,Botafogo RJ,2,Atletico PR,0,,https://r2.thesportsdb.com/images/media/event/thumb/sv9gho1644935591.jpg
+1468242,2022-07-24,Round 19,Avai FC,1,Flamengo,2,,https://r2.thesportsdb.com/images/media/event/thumb/pagtld1644935592.jpg
+1468235,2022-07-24,Round 19,Fluminense,2,Bragantino,1,,https://r2.thesportsdb.com/images/media/event/thumb/5e58xl1644935590.jpg
+1468237,2022-07-24,Round 19,Palmeiras,2,Internacional,1,,https://r2.thesportsdb.com/images/media/event/thumb/31y4b21644935590.jpg
+1468239,2022-07-24,Round 19,Juventude,1,Ceara,0,,https://r2.thesportsdb.com/images/media/event/thumb/xua20r1644935591.jpg
+1468234,2022-07-24,Round 19,Atletico MG,1,Corinthians,2,,https://r2.thesportsdb.com/images/media/event/thumb/n3p8191644935589.jpg
+1468241,2022-07-24,Round 19,Atletico GO,0,America MG,1,,https://r2.thesportsdb.com/images/media/event/thumb/e0gg4t1644935591.jpg
+1468240,2022-07-24,Round 19,Fortaleza,0,Santos FC,0,,https://r2.thesportsdb.com/images/media/event/thumb/ldmp0g1644935591.jpg
+1468243,2022-07-25,Round 19,Coritiba,1,Cuiaba,0,,https://r2.thesportsdb.com/images/media/event/thumb/pufmzz1644935592.jpg
+1468250,2022-07-30,Round 20,Ceara,1,Palmeiras,2,,https://r2.thesportsdb.com/images/media/event/thumb/tepngs1644935594.jpg
+1468251,2022-07-30,Round 20,Goias,1,Coritiba,0,,https://r2.thesportsdb.com/images/media/event/thumb/b6gix91644935594.jpg
+1468247,2022-07-30,Round 20,Corinthians,1,Botafogo RJ,0,,https://r2.thesportsdb.com/images/media/event/thumb/x0tkz31644935593.jpg
+1468245,2022-07-30,Round 20,Flamengo,4,Atletico GO,1,,https://r2.thesportsdb.com/images/media/event/thumb/mex2p91644935593.jpg
+1468249,2022-07-31,Round 20,Internacional,3,Atletico MG,0,,https://r2.thesportsdb.com/images/media/event/thumb/dwjakr1644935594.jpg
+1468253,2022-07-31,Round 20,Atletico PR,1,Sao Paulo,0,,https://r2.thesportsdb.com/images/media/event/thumb/zrj7c81644935595.jpg
+1468252,2022-07-31,Round 20,Cuiaba,0,Fortaleza,1,,https://r2.thesportsdb.com/images/media/event/thumb/vl7y3d1644935595.jpg
+1468244,2022-07-31,Round 20,America MG,3,Avai FC,1,,https://r2.thesportsdb.com/images/media/event/thumb/ymi7l41644935592.jpg
+1468246,2022-07-31,Round 20,Bragantino,1,Juventude,0,,https://r2.thesportsdb.com/images/media/event/thumb/2me1pc1644935593.jpg
+1468248,2022-08-01,Round 20,Santos FC,2,Fluminense,2,,https://r2.thesportsdb.com/images/media/event/thumb/ny4ftn1644935593.jpg
+1468258,2022-08-06,Round 21,Botafogo RJ,1,Ceara,1,,https://r2.thesportsdb.com/images/media/event/thumb/2f6jqg1644935596.jpg
+1468259,2022-08-06,Round 21,Juventude,0,America MG,1,,https://r2.thesportsdb.com/images/media/event/thumb/npwzs61644935597.jpg
+1468262,2022-08-06,Round 21,Avai FC,1,Corinthians,1,,https://r2.thesportsdb.com/images/media/event/thumb/cv14oi1644935598.jpg
+1468261,2022-08-06,Round 21,Atletico GO,2,Bragantino,1,,https://r2.thesportsdb.com/images/media/event/thumb/3a8nze1644935597.jpg
+1468256,2022-08-06,Round 21,Sao Paulo,0,Flamengo,2,,https://r2.thesportsdb.com/images/media/event/thumb/0u37it1644935596.jpg
+1468255,2022-08-07,Round 21,Fluminense,1,Cuiaba,0,,https://r2.thesportsdb.com/images/media/event/thumb/9n79cw1644935596.jpg
+1468257,2022-08-07,Round 21,Palmeiras,3,Goias,0,,https://r2.thesportsdb.com/images/media/event/thumb/hjrxjg1644935596.jpg
+1468260,2022-08-07,Round 21,Fortaleza,3,Internacional,0,,https://r2.thesportsdb.com/images/media/event/thumb/7dzwdb1644935597.jpg
+1468254,2022-08-07,Round 21,Atletico MG,2,Atletico PR,3,,https://r2.thesportsdb.com/images/media/event/thumb/3xghtg1644935595.jpg
+1468263,2022-08-08,Round 21,Coritiba,1,Santos FC,2,,https://r2.thesportsdb.com/images/media/event/thumb/p1cfxh1644935598.jpg
+1468271,2022-08-13,Round 22,Goias,1,Avai FC,1,,https://r2.thesportsdb.com/images/media/event/thumb/660lf31644935600.jpg
+1468267,2022-08-13,Round 22,Corinthians,0,Palmeiras,1,,https://r2.thesportsdb.com/images/media/event/thumb/v94c2o1644935599.jpg
+1468272,2022-08-13,Round 22,Cuiaba,1,Juventude,0,,https://r2.thesportsdb.com/images/media/event/thumb/c4cjzt1644935601.jpg
+1468268,2022-08-14,Round 22,Botafogo RJ,0,Atletico GO,0,,https://r2.thesportsdb.com/images/media/event/thumb/veac511644935599.jpg
+1468273,2022-08-14,Round 22,Coritiba,0,Atletico MG,1,,https://r2.thesportsdb.com/images/media/event/thumb/akufei1644935601.jpg
+1468265,2022-08-14,Round 22,Flamengo,5,Atletico PR,0,,https://r2.thesportsdb.com/images/media/event/thumb/wi9f651644935598.jpg
+1468266,2022-08-14,Round 22,Sao Paulo,3,Bragantino,0,,https://r2.thesportsdb.com/images/media/event/thumb/ozov691644935599.jpg
+1468270,2022-08-14,Round 22,Ceara,0,Fortaleza,1,,https://r2.thesportsdb.com/images/media/event/thumb/k6edsk1644935600.jpg
+1468264,2022-08-14,Round 22,America MG,1,Santos FC,0,,https://r2.thesportsdb.com/images/media/event/thumb/mavy5l1644935598.jpg
+1468269,2022-08-14,Round 22,Internacional,3,Fluminense,0,,https://r2.thesportsdb.com/images/media/event/thumb/gy052e1644935600.jpg
+1468274,2022-08-20,Round 23,Atletico MG,0,Goias,1,,https://r2.thesportsdb.com/images/media/event/thumb/1rmc4l1644935601.jpg
+1468275,2022-08-20,Round 23,Fluminense,5,Coritiba,2,,https://r2.thesportsdb.com/images/media/event/thumb/adj9371644935601.jpg
+1468279,2022-08-21,Round 23,Juventude,2,Botafogo RJ,2,,https://r2.thesportsdb.com/images/media/event/thumb/pf52j11644935603.jpg
+1468277,2022-08-21,Round 23,Palmeiras,1,Flamengo,1,,https://r2.thesportsdb.com/images/media/event/thumb/c9rhwo1644935602.jpg
+1468276,2022-08-21,Round 23,Bragantino,1,Ceara,1,,https://r2.thesportsdb.com/images/media/event/thumb/5uks9p1644935602.jpg
+1468280,2022-08-21,Round 23,Fortaleza,1,Corinthians,0,,https://r2.thesportsdb.com/images/media/event/thumb/qu06991644935603.jpg
+1468281,2022-08-21,Round 23,Atletico GO,1,Cuiaba,1,,https://r2.thesportsdb.com/images/media/event/thumb/g1a2as1644935603.jpg
+1468283,2022-08-21,Round 23,Atletico PR,1,America MG,1,,https://r2.thesportsdb.com/images/media/event/thumb/16cu9v1644935604.jpg
+1468278,2022-08-21,Round 23,Santos FC,1,Sao Paulo,0,,https://r2.thesportsdb.com/images/media/event/thumb/9tk9101644935602.jpg
+1468282,2022-08-22,Round 23,Avai FC,0,Internacional,1,,https://r2.thesportsdb.com/images/media/event/thumb/c0absb1644935603.jpg
+1468291,2022-08-27,Round 24,Goias,2,Atletico GO,1,,https://r2.thesportsdb.com/images/media/event/thumb/v3pnnw1644935606.jpg
+1468293,2022-08-27,Round 24,Coritiba,1,Avai FC,0,,https://r2.thesportsdb.com/images/media/event/thumb/h0ajm21644935607.jpg
+1468285,2022-08-27,Round 24,Fluminense,1,Palmeiras,1,,https://r2.thesportsdb.com/images/media/event/thumb/ym3gog1644935604.jpg
+1468290,2022-08-28,Round 24,Ceara,0,Atletico PR,0,,https://r2.thesportsdb.com/images/media/event/thumb/7mt0xr1644935606.jpg
+1468284,2022-08-28,Round 24,America MG,1,Atletico MG,1,,https://r2.thesportsdb.com/images/media/event/thumb/24raey1644935604.jpg
+1468286,2022-08-28,Round 24,Sao Paulo,0,Fortaleza,1,,https://r2.thesportsdb.com/images/media/event/thumb/y4zum21644935605.jpg
+1468288,2022-08-28,Round 24,Botafogo RJ,0,Flamengo,1,,https://r2.thesportsdb.com/images/media/event/thumb/sylq7o1644935605.jpg
+1468292,2022-08-28,Round 24,Cuiaba,0,Santos FC,0,,https://r2.thesportsdb.com/images/media/event/thumb/4f4ohc1644935606.jpg
+1468289,2022-08-29,Round 24,Internacional,4,Juventude,0,,https://r2.thesportsdb.com/images/media/event/thumb/eru9bo1644935605.jpg
+1468287,2022-08-30,Round 24,Corinthians,1,Bragantino,0,,https://r2.thesportsdb.com/images/media/event/thumb/krni4e1644935605.jpg
+1468299,2022-09-03,Round 25,Juventude,1,Avai FC,1,,https://r2.thesportsdb.com/images/media/event/thumb/oyhc6o1644935608.jpg
+1468296,2022-09-03,Round 25,Bragantino,2,Palmeiras,2,,https://r2.thesportsdb.com/images/media/event/thumb/vkv8s31644935608.jpg
+1468303,2022-09-03,Round 25,Atletico PR,1,Fluminense,0,,https://r2.thesportsdb.com/images/media/event/thumb/xvltt61644935610.jpg
+1468294,2022-09-03,Round 25,America MG,2,Coritiba,0,,https://r2.thesportsdb.com/images/media/event/thumb/lz6p331644935607.jpg
+1468295,2022-09-04,Round 25,Flamengo,1,Ceara,1,,https://r2.thesportsdb.com/images/media/event/thumb/vql0t91644935607.jpg
+1468300,2022-09-04,Round 25,Fortaleza,1,Botafogo RJ,3,,https://r2.thesportsdb.com/images/media/event/thumb/aiu5zb1644935609.jpg
+1468297,2022-09-04,Round 25,Corinthians,2,Internacional,2,,https://r2.thesportsdb.com/images/media/event/thumb/6thigd1644935608.jpg
+1468301,2022-09-04,Round 25,Atletico GO,0,Atletico MG,2,,https://r2.thesportsdb.com/images/media/event/thumb/o4vycd1644935609.jpg
+1468302,2022-09-04,Round 25,Cuiaba,1,Sao Paulo,1,,https://r2.thesportsdb.com/images/media/event/thumb/ydplg41644935609.jpg
+1468298,2022-09-05,Round 25,Santos FC,1,Goias,2,,https://r2.thesportsdb.com/images/media/event/thumb/okd10w1644935608.jpg
+1468304,2022-09-07,Round 26,Atletico MG,1,Bragantino,1,,https://r2.thesportsdb.com/images/media/event/thumb/zw93xa1644935610.jpg
+1468309,2022-09-10,Round 26,Internacional,1,Cuiaba,0,,https://r2.thesportsdb.com/images/media/event/thumb/70y2361644935611.jpg
+1468310,2022-09-10,Round 26,Ceara,2,Santos FC,1,,https://r2.thesportsdb.com/images/media/event/thumb/42i5kd1644935612.jpg
+1468305,2022-09-10,Round 26,Fluminense,2,Fortaleza,1,,https://r2.thesportsdb.com/images/media/event/thumb/3kxo0w1644935610.jpg
+1468307,2022-09-11,Round 26,Palmeiras,2,Juventude,1,,https://r2.thesportsdb.com/images/media/event/thumb/gnbcd31644935611.jpg
+1468308,2022-09-11,Round 26,Botafogo RJ,0,America MG,0,,https://r2.thesportsdb.com/images/media/event/thumb/f7jem01644935611.jpg
+1468312,2022-09-11,Round 26,Avai FC,1,Atletico PR,1,,https://r2.thesportsdb.com/images/media/event/thumb/levgpy1644935612.jpg
+1468306,2022-09-11,Round 26,Sao Paulo,1,Corinthians,1,,https://r2.thesportsdb.com/images/media/event/thumb/fe0pdr1644935610.jpg
+1468313,2022-09-11,Round 26,Coritiba,2,Atletico GO,0,,https://r2.thesportsdb.com/images/media/event/thumb/1ebg6h1644935613.jpg
+1468311,2022-09-11,Round 26,Goias,1,Flamengo,1,,https://r2.thesportsdb.com/images/media/event/thumb/b1e1db1644935612.jpg
+1468322,2022-09-17,Round 27,Avai FC,1,Atletico MG,0,,https://r2.thesportsdb.com/images/media/event/thumb/5mbe6x1644935615.jpg
+1468318,2022-09-17,Round 27,Botafogo RJ,2,Coritiba,0,,https://r2.thesportsdb.com/images/media/event/thumb/asmek51644935614.jpg
+1468316,2022-09-18,Round 27,Bragantino,1,Goias,1,,https://r2.thesportsdb.com/images/media/event/thumb/a7xw4t1644935613.jpg
+1468315,2022-09-18,Round 27,Flamengo,1,Fluminense,2,,https://r2.thesportsdb.com/images/media/event/thumb/s5xx9r1644935613.jpg
+1468320,2022-09-18,Round 27,Ceara,0,Sao Paulo,2,,https://r2.thesportsdb.com/images/media/event/thumb/0psxba1644935615.jpg
+1468314,2022-09-18,Round 27,America MG,1,Corinthians,0,,https://r2.thesportsdb.com/images/media/event/thumb/szdhj11644935613.jpg
+1468319,2022-09-18,Round 27,Juventude,1,Fortaleza,1,,https://r2.thesportsdb.com/images/media/event/thumb/51uw071644935614.jpg
+1468317,2022-09-18,Round 27,Palmeiras,1,Santos FC,0,,https://r2.thesportsdb.com/images/media/event/thumb/3u1g0a1644935614.jpg
+1468323,2022-09-18,Round 27,Atletico PR,2,Cuiaba,2,,https://r2.thesportsdb.com/images/media/event/thumb/u34j0e1644935615.jpg
+1468321,2022-09-19,Round 27,Atletico GO,1,Internacional,2,,https://r2.thesportsdb.com/images/media/event/thumb/a4ov441644935615.jpg
+1468326,2022-09-25,Round 28,Sao Paulo,4,Avai FC,0,,https://r2.thesportsdb.com/images/media/event/thumb/hi7zof1644935616.jpg
+1468328,2022-09-28,Round 28,Santos FC,2,Atletico PR,0,,https://r2.thesportsdb.com/images/media/event/thumb/66ithu1644935617.jpg
+1468325,2022-09-28,Round 28,Fluminense,4,Juventude,0,,https://r2.thesportsdb.com/images/media/event/thumb/7b4z3t1644935616.jpg
+1468327,2022-09-28,Round 28,Corinthians,2,Atletico GO,1,,https://r2.thesportsdb.com/images/media/event/thumb/sf1kpe1644935616.jpg
+1468330,2022-09-28,Round 28,Fortaleza,3,Flamengo,2,,https://r2.thesportsdb.com/images/media/event/thumb/b2ar6t1644935617.jpg
+1468333,2022-09-28,Round 28,Coritiba,1,Ceara,0,,https://r2.thesportsdb.com/images/media/event/thumb/dkuh9c1644935618.jpg
+1468332,2022-09-29,Round 28,Cuiaba,2,America MG,1,,https://r2.thesportsdb.com/images/media/event/thumb/4m4nk81644935618.jpg
+1468324,2022-09-29,Round 28,Atletico MG,0,Palmeiras,1,,https://r2.thesportsdb.com/images/media/event/thumb/xo9m171644935616.jpg
+1468329,2022-09-29,Round 28,Internacional,0,Bragantino,0,,https://r2.thesportsdb.com/images/media/event/thumb/yfp1rj1644935617.jpg
+1468331,2022-09-29,Round 28,Goias,0,Botafogo RJ,1,,https://r2.thesportsdb.com/images/media/event/thumb/gjf0ry1644935618.jpg
+1468334,2022-10-01,Round 29,Atletico MG,2,Fluminense,0,,https://r2.thesportsdb.com/images/media/event/thumb/drpnds1644935618.jpg
+1468339,2022-10-01,Round 29,Internacional,1,Santos FC,0,,https://r2.thesportsdb.com/images/media/event/thumb/bdbixa1644935620.jpg
+1468340,2022-10-01,Round 29,Ceara,1,America MG,2,,https://r2.thesportsdb.com/images/media/event/thumb/283odj1644935620.jpg
+1468335,2022-10-01,Round 29,Flamengo,4,Bragantino,1,,https://r2.thesportsdb.com/images/media/event/thumb/4p872c1644935619.jpg
+1468341,2022-10-01,Round 29,Goias,0,Fortaleza,1,,https://r2.thesportsdb.com/images/media/event/thumb/yriign1644935620.jpg
+1468342,2022-10-01,Round 29,Avai FC,1,Atletico GO,2,,https://r2.thesportsdb.com/images/media/event/thumb/qqkfmh1644935621.jpg
+1468343,2022-10-01,Round 29,Atletico PR,2,Juventude,0,,https://r2.thesportsdb.com/images/media/event/thumb/93stl41644935621.jpg
+1468337,2022-10-02,Round 29,Corinthians,2,Cuiaba,0,,https://r2.thesportsdb.com/images/media/event/thumb/df20om1644935619.jpg
+1468338,2022-10-03,Round 29,Botafogo RJ,1,Palmeiras,3,,https://r2.thesportsdb.com/images/media/event/thumb/1yg5j81644935620.jpg
+1468349,2022-10-05,Round 30,Juventude,2,Corinthians,2,,https://r2.thesportsdb.com/images/media/event/thumb/diu9fs1644935623.jpg
+1468346,2022-10-05,Round 30,Bragantino,2,Cuiaba,1,,https://r2.thesportsdb.com/images/media/event/thumb/2depw91644935622.jpg
+1468351,2022-10-05,Round 30,Atletico GO,3,Fluminense,2,,https://r2.thesportsdb.com/images/media/event/thumb/8lkg3w1644935623.jpg
+1468350,2022-10-05,Round 30,Ceara,1,Goias,1,,https://r2.thesportsdb.com/images/media/event/thumb/z93ujq1644935623.jpg
+1468353,2022-10-05,Round 30,Atletico PR,1,Fortaleza,1,,https://r2.thesportsdb.com/images/media/event/thumb/5yticw1644935624.jpg
+1468345,2022-10-06,Round 30,Flamengo,0,Internacional,0,,https://r2.thesportsdb.com/images/media/event/thumb/5hrtc11644935622.jpg
+1468348,2022-10-06,Round 30,Santos FC,1,Atletico MG,2,,https://r2.thesportsdb.com/images/media/event/thumb/tdxman1644935623.jpg
+1468347,2022-10-06,Round 30,Palmeiras,4,Coritiba,0,,https://r2.thesportsdb.com/images/media/event/thumb/jjmulz1644935622.jpg
+1468344,2022-10-06,Round 30,America MG,1,Sao Paulo,2,,https://r2.thesportsdb.com/images/media/event/thumb/q533461644935621.jpg
+1468352,2022-10-06,Round 30,Avai FC,1,Botafogo RJ,2,,https://r2.thesportsdb.com/images/media/event/thumb/ts9rqe1644935624.jpg
+1468362,2022-10-08,Round 31,Cuiaba,1,Flamengo,2,,https://r2.thesportsdb.com/images/media/event/thumb/0fsncp1644935627.jpg
+1468357,2022-10-09,Round 31,Corinthians,2,Atletico PR,1,,https://r2.thesportsdb.com/images/media/event/thumb/gdxeyl1644935625.jpg
+1468359,2022-10-09,Round 31,Internacional,4,Goias,2,,https://r2.thesportsdb.com/images/media/event/thumb/3fugtr1644935626.jpg
+1468356,2022-10-09,Round 31,Sao Paulo,0,Botafogo RJ,1,,https://r2.thesportsdb.com/images/media/event/thumb/sla1y81644935625.jpg
+1468360,2022-10-09,Round 31,Fortaleza,2,Avai FC,0,,https://r2.thesportsdb.com/images/media/event/thumb/cjisy01644935626.jpg
+1468363,2022-10-09,Round 31,Coritiba,2,Bragantino,1,,https://r2.thesportsdb.com/images/media/event/thumb/xle5yj1644935627.jpg
+1468354,2022-10-09,Round 31,Atletico MG,0,Ceara,0,,https://r2.thesportsdb.com/images/media/event/thumb/4dqvpf1644935624.jpg
+1468355,2022-10-09,Round 31,Fluminense,0,America MG,2,,https://r2.thesportsdb.com/images/media/event/thumb/wxfz5l1644935625.jpg
+1468361,2022-10-10,Round 31,Atletico GO,1,Palmeiras,1,,https://r2.thesportsdb.com/images/media/event/thumb/dm9wx51644935626.jpg
+1468358,2022-10-10,Round 31,Santos FC,4,Juventude,1,,https://r2.thesportsdb.com/images/media/event/thumb/jtjhlu1644935625.jpg
+1468364,2022-10-15,Round 32,America MG,1,Fortaleza,2,,https://r2.thesportsdb.com/images/media/event/thumb/5gmb681644935627.jpg
+1468365,2022-10-15,Round 32,Flamengo,1,Atletico MG,0,,https://r2.thesportsdb.com/images/media/event/thumb/wkebv21644935628.jpg
+1468367,2022-10-16,Round 32,Palmeiras,0,Sao Paulo,0,,https://r2.thesportsdb.com/images/media/event/thumb/rv3xgt1644935628.jpg
+1468370,2022-10-16,Round 32,Ceara,1,Cuiaba,1,,https://r2.thesportsdb.com/images/media/event/thumb/zrfx271644935629.jpg
+1468369,2022-10-16,Round 32,Juventude,1,Atletico GO,1,,https://r2.thesportsdb.com/images/media/event/thumb/hy2ob11644935629.jpg
+1468368,2022-10-16,Round 32,Botafogo RJ,0,Internacional,1,,https://r2.thesportsdb.com/images/media/event/thumb/ycb5fg1644935628.jpg
+1468372,2022-10-16,Round 32,Avai FC,0,Fluminense,3,,https://r2.thesportsdb.com/images/media/event/thumb/5seet01644935630.jpg
+1468373,2022-10-16,Round 32,Atletico PR,1,Coritiba,0,,https://r2.thesportsdb.com/images/media/event/thumb/5b3bdh1644935630.jpg
+1468366,2022-10-17,Round 32,Bragantino,0,Santos FC,2,,https://r2.thesportsdb.com/images/media/event/thumb/y99zij1644935628.jpg
+1468336,2022-10-20,Round 29,Sao Paulo,3,Coritiba,1,,https://r2.thesportsdb.com/images/media/event/thumb/biufcy1644935619.jpg
+1468376,2022-10-22,Round 33,Bragantino,4,Atletico PR,2,,https://r2.thesportsdb.com/images/media/event/thumb/i55cq21644935631.jpg
+1468374,2022-10-22,Round 33,America MG,1,Flamengo,2,,https://r2.thesportsdb.com/images/media/event/thumb/o6kklq1644935630.jpg
+1468378,2022-10-22,Round 33,Santos FC,0,Corinthians,1,,https://r2.thesportsdb.com/images/media/event/thumb/mad0gh1644935631.jpg
+1468377,2022-10-23,Round 33,Palmeiras,3,Avai FC,0,,https://r2.thesportsdb.com/images/media/event/thumb/ht072p1644935631.jpg
+1468375,2022-10-23,Round 33,Fluminense,2,Botafogo RJ,2,,https://r2.thesportsdb.com/images/media/event/thumb/7vuamq1644935631.jpg
+1468379,2022-10-23,Round 33,Juventude,1,Sao Paulo,2,,https://r2.thesportsdb.com/images/media/event/thumb/z4cmq61644935632.jpg
+1468381,2022-10-23,Round 33,Atletico GO,1,Ceara,0,,https://r2.thesportsdb.com/images/media/event/thumb/yj9l141644935632.jpg
+1468382,2022-10-23,Round 33,Cuiaba,1,Goias,2,,https://r2.thesportsdb.com/images/media/event/thumb/09sa1r1644935633.jpg
+1468383,2022-10-23,Round 33,Coritiba,1,Internacional,1,,https://r2.thesportsdb.com/images/media/event/thumb/rdxdi31644935633.jpg
+1468380,2022-10-24,Round 33,Fortaleza,0,Atletico MG,0,,https://r2.thesportsdb.com/images/media/event/thumb/yxdydl1644935632.jpg
+1468393,2022-10-26,Round 34,Atletico PR,1,Palmeiras,3,,https://r2.thesportsdb.com/images/media/event/thumb/r7p8uk1644935636.jpg
+1468385,2022-10-26,Round 34,Flamengo,3,Santos FC,2,,https://r2.thesportsdb.com/images/media/event/thumb/q51s5s1644935634.jpg
+1468388,2022-10-26,Round 34,Botafogo RJ,2,Bragantino,1,,https://r2.thesportsdb.com/images/media/event/thumb/pzbmdf1644935634.jpg
+1468391,2022-10-27,Round 34,Goias,2,America MG,2,,https://r2.thesportsdb.com/images/media/event/thumb/wcszom1644935635.jpg
+1468387,2022-10-27,Round 34,Corinthians,0,Fluminense,2,,https://r2.thesportsdb.com/images/media/event/thumb/6vremx1644935634.jpg
+1468389,2022-10-27,Round 34,Internacional,2,Ceara,1,,https://r2.thesportsdb.com/images/media/event/thumb/r7z9g51644935635.jpg
+1468390,2022-10-27,Round 34,Fortaleza,3,Coritiba,1,,https://r2.thesportsdb.com/images/media/event/thumb/ycr8mu1644935635.jpg
+1468386,2022-10-27,Round 34,Sao Paulo,2,Atletico GO,1,,https://r2.thesportsdb.com/images/media/event/thumb/dmaiy91644935634.jpg
+1468384,2022-10-27,Round 34,Atletico MG,1,Juventude,0,,https://r2.thesportsdb.com/images/media/event/thumb/79umzs1644935633.jpg
+1468392,2022-10-27,Round 34,Cuiaba,1,Avai FC,0,,https://r2.thesportsdb.com/images/media/event/thumb/s5pfzb1644935636.jpg
+1468371,2022-10-29,Round 32,Goias,0,Corinthians,0,,https://r2.thesportsdb.com/images/media/event/thumb/j4ewfj1644935629.jpg
+1468398,2022-10-31,Round 35,Botafogo RJ,0,Cuiaba,2,,https://r2.thesportsdb.com/images/media/event/thumb/mko8tv1644935637.jpg
+1468400,2022-10-31,Round 35,Ceara,0,Fluminense,1,,https://r2.thesportsdb.com/images/media/event/thumb/dngvh81644935638.jpg
+1468399,2022-11-01,Round 35,Juventude,0,Coritiba,1,,https://r2.thesportsdb.com/images/media/event/thumb/38ujzi1644935638.jpg
+1468401,2022-11-01,Round 35,Atletico GO,2,Santos FC,3,,https://r2.thesportsdb.com/images/media/event/thumb/v078t31644935638.jpg
+1468402,2022-11-01,Round 35,Avai FC,1,Bragantino,2,,https://r2.thesportsdb.com/images/media/event/thumb/ojzl2r1644935639.jpg
+1468396,2022-11-02,Round 35,Sao Paulo,2,Atletico MG,2,,https://r2.thesportsdb.com/images/media/event/thumb/56s3uz1644935637.jpg
+1468394,2022-11-02,Round 35,America MG,1,Internacional,0,,https://r2.thesportsdb.com/images/media/event/thumb/gfnv6p1644935636.jpg
+1468403,2022-11-02,Round 35,Atletico PR,3,Goias,2,,https://r2.thesportsdb.com/images/media/event/thumb/jqenjx1644935639.jpg
+1468395,2022-11-03,Round 35,Flamengo,1,Corinthians,2,,https://r2.thesportsdb.com/images/media/event/thumb/ot44q11644935636.jpg
+1468397,2022-11-03,Round 35,Palmeiras,4,Fortaleza,0,,https://r2.thesportsdb.com/images/media/event/thumb/hc4du91644935637.jpg
+1468406,2022-11-04,Round 36,Bragantino,1,America MG,4,,https://r2.thesportsdb.com/images/media/event/thumb/i95dod1644935640.jpg
+1468411,2022-11-04,Round 36,Goias,1,Juventude,0,,https://r2.thesportsdb.com/images/media/event/thumb/89vpvu1644935641.jpg
+1468405,2022-11-05,Round 36,Fluminense,3,Sao Paulo,1,,https://r2.thesportsdb.com/images/media/event/thumb/ftovd61644935640.jpg
+1468408,2022-11-05,Round 36,Santos FC,1,Avai FC,1,,https://r2.thesportsdb.com/images/media/event/thumb/1rggjn1644935641.jpg
+1468407,2022-11-05,Round 36,Corinthians,1,Ceara,0,,https://r2.thesportsdb.com/images/media/event/thumb/xv6yfp1644935640.jpg
+1468409,2022-11-06,Round 36,Internacional,2,Atletico PR,0,,https://r2.thesportsdb.com/images/media/event/thumb/futtmq1644935641.jpg
+1468410,2022-11-06,Round 36,Fortaleza,1,Atletico GO,1,,https://r2.thesportsdb.com/images/media/event/thumb/ihdbw01644935641.jpg
+1468413,2022-11-06,Round 36,Coritiba,1,Flamengo,0,,https://r2.thesportsdb.com/images/media/event/thumb/bpj3hf1644935642.jpg
+1468412,2022-11-06,Round 36,Cuiaba,1,Palmeiras,1,,https://r2.thesportsdb.com/images/media/event/thumb/ld6gqo1644935642.jpg
+1468404,2022-11-07,Round 36,Atletico MG,0,Botafogo RJ,2,,https://r2.thesportsdb.com/images/media/event/thumb/g2ds6m1644935639.jpg
+1468415,2022-11-08,Round 37,Fluminense,3,Goias,0,,https://r2.thesportsdb.com/images/media/event/thumb/ly7hzz1644935643.jpg
+1468422,2022-11-08,Round 37,Avai FC,2,Ceara,0,,https://r2.thesportsdb.com/images/media/event/thumb/rv6f6d1644935645.jpg
+1468423,2022-11-08,Round 37,Coritiba,2,Corinthians,2,,https://r2.thesportsdb.com/images/media/event/thumb/hlp2ob1644935645.jpg
+1468416,2022-11-09,Round 37,Sao Paulo,0,Internacional,1,,https://r2.thesportsdb.com/images/media/event/thumb/5px2n31644935643.jpg
+1468420,2022-11-09,Round 37,Fortaleza,6,Bragantino,0,,https://r2.thesportsdb.com/images/media/event/thumb/zlwhxj1644935644.jpg
+1468417,2022-11-10,Round 37,Palmeiras,2,America MG,1,,https://r2.thesportsdb.com/images/media/event/thumb/yekzbd1644935643.jpg
+1468419,2022-11-10,Round 37,Juventude,2,Flamengo,2,,https://r2.thesportsdb.com/images/media/event/thumb/v8rxjy1644935644.jpg
+1468421,2022-11-10,Round 37,Atletico GO,1,Atletico PR,1,,https://r2.thesportsdb.com/images/media/event/thumb/i9ce7n1644935644.jpg
+1468414,2022-11-10,Round 37,Atletico MG,3,Cuiaba,0,,https://r2.thesportsdb.com/images/media/event/thumb/fsr34r1644935642.jpg
+1468418,2022-11-10,Round 37,Botafogo RJ,3,Santos FC,0,,https://r2.thesportsdb.com/images/media/event/thumb/0e2xll1644935644.jpg
+1468425,2022-11-12,Round 38,Flamengo,1,Avai FC,2,,https://r2.thesportsdb.com/images/media/event/thumb/ecbbho1644935646.jpg
+1468424,2022-11-13,Round 38,America MG,1,Atletico GO,1,,https://r2.thesportsdb.com/images/media/event/thumb/7ank6a1644935645.jpg
+1468426,2022-11-13,Round 38,Bragantino,0,Fluminense,1,,https://r2.thesportsdb.com/images/media/event/thumb/uybw1p1644935646.jpg
+1468427,2022-11-13,Round 38,Corinthians,0,Atletico MG,1,,https://r2.thesportsdb.com/images/media/event/thumb/u0g30w1644935646.jpg
+1468428,2022-11-13,Round 38,Santos FC,0,Fortaleza,2,,https://r2.thesportsdb.com/images/media/event/thumb/k6m32g1644935646.jpg
+1468429,2022-11-13,Round 38,Internacional,3,Palmeiras,0,,https://r2.thesportsdb.com/images/media/event/thumb/2eqbxq1644935647.jpg
+1468430,2022-11-13,Round 38,Ceara,4,Juventude,1,,https://r2.thesportsdb.com/images/media/event/thumb/lutsh91644935647.jpg
+1468431,2022-11-13,Round 38,Goias,0,Sao Paulo,4,,https://r2.thesportsdb.com/images/media/event/thumb/vks0z41644935647.jpg
+1468432,2022-11-13,Round 38,Cuiaba,2,Coritiba,1,,https://r2.thesportsdb.com/images/media/event/thumb/t6zwrc1644935647.jpg
+1468433,2022-11-13,Round 38,Atletico PR,3,Botafogo RJ,0,,https://r2.thesportsdb.com/images/media/event/thumb/a1vhk41644935648.jpg

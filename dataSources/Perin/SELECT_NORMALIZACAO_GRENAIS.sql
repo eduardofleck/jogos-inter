@@ -3,7 +3,7 @@ update GRENAIS set Estadio = 'Centenário Caxias do Sul' where Estadio = 'Estádio
 update GRENAIS SET Estadio = 'Estádio da Chácara das Camélias' WHERE Estadio = 'Campo do Porto Alegre'
 UPDATE GRENAIS SET Competicao = 'Torneio Roberto Gomes Pedrosa' WHERE Competicao = 'Campeonato Brasileiro' AND YEAR(Data) >= 1967 AND YEAR(Data) <= 1970
 
-INSERT INTO game (idChampionship, idStadium, idTeamHome, penaltiesScoreTeamHome, penaltiesScoreTeamAway, scoreTeamHome, scoreTeamAway, idTeamAway, gameDate, source)
+INSERT INTO game (idChampionship, idStadium, idTeamHome, scoreTeamHome, penaltiesScoreTeamHome, penaltiesScoreTeamAway, scoreTeamAway, idTeamAway, gameDate, source)
 SELECT 
 	CASE 
 		WHEN Competicao = 'Amistoso' THEN 'AMISTOSO'
