@@ -18,7 +18,7 @@ UPDATE PERIN SET Adversario = 'Atlético-PR' WHERE Adversario = 'ATLÉTICO PARANAE
 UPDATE PERIN SET Adversario = 'Goiás EC' WHERE Adversario = 'GOIÁS'
 UPDATE PERIN SET Adversario = 'Santos FC' WHERE Adversario = 'SANTOS'
 
-INSERT INTO game (idChampionship, idStadium, idTeamHome, scoreTeamHome, scoreTeamAway, idTeamAway, gameDate, source)
+INSERT INTO game (idChampionship, idReferee, idStadium, idTeamHome, scoreTeamHome, scoreTeamAway, idTeamAway, gameDate, source)
 SELECT 
 	CASE 
 		WHEN CAMPEONATO = 'INTERNACIONAL AMISTOSO' THEN 'AMISTOSO'
@@ -39,6 +39,7 @@ SELECT
 		WHEN CAMPEONATO = 'TAÇA BRASIL' THEN CAST(YEAR(data) AS VARCHAR(4))+'_TBR'
 		WHEN CAMPEONATO = 'COPA SUL-MINAS' THEN CAST(YEAR(data) AS VARCHAR(4))+'_CSM'
 	END idChampionship,
+	R.ID AS idReferee,
 	CASE
 		WHEN PERIN.Estadio = 'NULL' THEN NULL
 		ELSE (SELECT MAX(ID) FROM stadium WHERE UPPER(NAME) LIKE UPPER(TRIM(PERIN.Estadio)) or UPPER(nickname) LIKE UPPER(TRIM(PERIN.Estadio)))
@@ -64,3 +65,4 @@ SELECT
 	--, PERIN.Estadio, Adversario, CAMPEONATO
   FROM PERIN 
 	LEFT JOIN @ESTADIOS_HOME H ON PERIN.Estadio = H.ESTADIO
+	LEFT JOIN referee R ON R.name = PERIN.Juiz

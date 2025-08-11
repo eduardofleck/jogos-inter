@@ -13,13 +13,17 @@ update [TRANSFERMARKET_CDB] set time_mandante = 'Portuguesa' where time_mandante
 update [TRANSFERMARKET_CDB] set time_visitante = 'Portuguesa' where time_visitante = 'Portuguesa-SP'
 update [TRANSFERMARKET_CDB] set time_mandante = 'Cascavel' where time_mandante = 'Cascavel-PR'
 update [TRANSFERMARKET_CDB] set time_visitante = 'Cascavel' where time_visitante = 'Cascavel-PR'
+update [TRANSFERMARKET_CDB] set time_mandante = 'Goiás EC' where time_mandante = 'Goiás'
+update [TRANSFERMARKET_CDB] set time_visitante = 'Goiás EC' where time_visitante = 'Goiás'
+update [TRANSFERMARKET_CDB] set time_mandante = 'Santos FC' where time_mandante = 'Santos'
+update [TRANSFERMARKET_CDB] set time_visitante = 'Santos FC' where time_visitante = 'Santos'
 
-
-INSERT INTO game (iDChampionship, idRound, gameDate, idStadium, attendance, idTeamHome, idTeamAway, scoreTeamHome, scoreTeamAway, hasPenalties, penaltiesScoreTeamHome, penaltiesScoreTeamAway, createddate, source)
+INSERT INTO game (iDChampionship, idRound, gameDate, idStadium, idReferee, attendance, idTeamHome, idTeamAway, scoreTeamHome, scoreTeamAway, hasPenalties, penaltiesScoreTeamHome, penaltiesScoreTeamAway, createddate, source)
 SELECT [iDChampionship]
       ,[idRound]
       ,[gameDate]
       ,[idStadium]
+	  ,idReferee
       ,[attendance]
       ,[idTeamHome]
       ,[idTeamAway]

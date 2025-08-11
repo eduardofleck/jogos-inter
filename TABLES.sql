@@ -3,6 +3,17 @@ DROP table IF EXISTS round;
 DROP table IF EXISTS championship;
 DROP table IF EXISTS team;
 DROP table IF EXISTS stadium;
+DROP table IF EXISTS referee;
+
+CREATE TABLE referee(
+	id int IDENTITY(1,1) NOT NULL,
+	name varchar(300) NOT NULL,
+	countrycode varchar(2) NULL,
+	state varchar(300) NULL,
+    createddate date not null default GETDATE(),
+	PRIMARY KEY(id),
+	UNIQUE (name),
+);
 
 CREATE TABLE stadium(
     id INT IDENTITY,
@@ -47,6 +58,7 @@ CREATE TABLE game(
 	idChampionship varchar(15) not null,
     idRound int null,
 	idStadium int null,
+	idReferee int null,
 	attendance int null,
 	idTeamHome int not null,
 	scoreTeamHome int null,
@@ -66,7 +78,8 @@ CREATE TABLE game(
 	CONSTRAINT fk_game_round FOREIGN KEY (idRound) REFERENCES round (id),
 	CONSTRAINT fk_game_stadium FOREIGN KEY (idStadium) REFERENCES stadium (id),
 	CONSTRAINT fk_game_teamHome FOREIGN KEY (idTeamHome) REFERENCES team (id),
-	CONSTRAINT fk_game_teamAway FOREIGN KEY (idTeamAway) REFERENCES team (id)
+	CONSTRAINT fk_game_teamAway FOREIGN KEY (idTeamAway) REFERENCES team (id),
+	CONSTRAINT fk_game_referee FOREIGN KEY (idReferee) REFERENCES referee (id)
 );
 
 insert into championship (id, name, generalName) values ('AMISTOSO', 'Amistoso', 'Amistoso');

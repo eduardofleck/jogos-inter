@@ -19,11 +19,12 @@ update [TRANSFERMARKET_BR] set time_mandante = 'Goiás EC' where time_mandante = 
 update [TRANSFERMARKET_BR] set time_visitante = 'Goiás EC' where time_visitante = 'Goiás'
 
 
-INSERT INTO game (iDChampionship, idRound, gameDate, idStadium, attendance, idTeamHome, idTeamAway, scoreTeamHome, scoreTeamAway, createddate, source)
+INSERT INTO game (iDChampionship, idRound, gameDate, idStadium, idReferee, attendance, idTeamHome, idTeamAway, scoreTeamHome, scoreTeamAway, createddate, source)
 SELECT [iDChampionship]
       ,[idRound]
       ,[gameDate]
       ,[idStadium]
+	  ,idReferee
       ,[attendance]
       ,[idTeamHome]
       ,[idTeamAway]

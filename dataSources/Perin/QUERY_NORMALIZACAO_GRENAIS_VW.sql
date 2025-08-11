@@ -5,11 +5,12 @@ UPDATE GRENAIS SET Competicao = 'Torneio Roberto Gomes Pedrosa' WHERE Competicao
 
 /*usa os grenais das tabelas do transfermarket pois elas tem mais dados*/
 
-INSERT INTO game (idChampionship, idStadium, idTeamHome, scoreTeamHome, penaltiesScoreTeamHome, penaltiesScoreTeamAway, scoreTeamAway, idTeamAway, gameDate, source)
+INSERT INTO game (idChampionship, idStadium, idTeamHome, idReferee, scoreTeamHome, penaltiesScoreTeamHome, penaltiesScoreTeamAway, scoreTeamAway, idTeamAway, gameDate, source)
 SELECT 
 	idChampionship,
 	idStadium, 
 	idTeamHome,
+	idReferee,
 	scoreTeamHome,
 	penaltiesScoreTeamHome,
 	penaltiesScoreTeamAway,
